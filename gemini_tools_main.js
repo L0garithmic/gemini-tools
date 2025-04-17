@@ -6,8 +6,8 @@
 // @match        https://gemini.google.com/*
 // @grant        GM_addStyle
 // @author       L0garithmic
-// @updateURL    https://yourwebsite.com/myuserscript.meta.js
-// @downloadURL  https://yourwebsite.com/myuserscript.user.js
+// @updateURL    https://raw.githubusercontent.com/L0garithmic/gemini-tools/refs/heads/main/gemini_tools_main.js
+// @downloadURL  https://raw.githubusercontent.com/L0garithmic/gemini-tools/refs/heads/main/gemini_tools_main.js
 // ==/UserScript==
 
 (function() {
